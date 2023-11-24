@@ -1,1 +1,2 @@
-# belajar-java-sesi-20-java-lombok
+# Belajar java Sesi 20
+Belajar Java Lombok
